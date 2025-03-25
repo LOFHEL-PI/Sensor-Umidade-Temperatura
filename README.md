@@ -1,9 +1,9 @@
-# Sensor de Umidade do Solo Capacitivo - SmartBerry
+# Sensor de Umidade do Solo Capacitivo - LOFHEL
 
-Este repositório contém o código e os esquemas de hardware para a integração do **sensor de umidade do solo capacitivo** no projeto **SmartBerry**.  
+Este repositório contém o código e os esquemas de hardware para a integração do **sensor de umidade e temperatuta** no projeto **LEFHEL**.  
 
 ## 📟 Componentes  
-- **Sensor  de umidade do solo capacitivo**
+- **Sensor  de umidade e temperatura**
 - **Arduino IDE**  
 
 ## 🔧 Instalação e Configuração  
@@ -22,6 +22,5 @@ Este repositório contém o código e os esquemas de hardware para a integraçã
 />
 
 ## 📊 Funcionalidades  
-- Mede a umidade do solo   
-- Integração com sistemas IoT para automação agrícola  
+- Mede a umidade e temperatura nas vinicolas   
 
