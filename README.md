@@ -1,6 +1,6 @@
 # Sensor de Umidade do Solo Capacitivo - LOFHEL
 
-Este repositório contém o código e os esquemas de hardware para a integração do **sensor de umidade e temperatuta** no projeto **LEFHEL**.  
+Este repositório contém o código e os esquemas de hardware para a integração do **sensor de umidade e temperatuta** no projeto **LOFHEL**.  
 
 ## 📟 Componentes  
 - **Sensor  de umidade e temperatura**
